@@ -4,7 +4,6 @@ Once upon a time
 there was a **beautiful** _mage_
 
 ```
--=[ mage ]=-  10/98
                       \'/
                     -= * =-
                 .-"-. / #,_
